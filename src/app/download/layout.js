@@ -17,7 +17,7 @@ export const metadata = {
         "ad-free streaming app",
     ],
     alternates: {
-        canonical: "https://veduapkdownloads.com/download",
+        canonical: "https://veduapkdownloads.net/download",
     },
     robots: {
         index: true,
@@ -27,13 +27,13 @@ export const metadata = {
         title: "Vedu APK APP Download Latest Version For Android 2026",
         description:
             "Get Vedu APK – 100% free, no login required. Stream 50,000+ movies, web series & TV shows in HD & 4K. Bollywood, Hollywood, South Indian, Punjabi & more. Ad-free. Download now.",
-        url: "https://veduapkdownloads.com/download",
+        url: "https://veduapkdownloads.net/download",
         siteName: "Vedu APK Downloads",
         type: "website",
         locale: "en_US",
         images: [
             {
-                url: "https://veduapkdownloads.com/images/vedu-apk-download.jpg",
+                url: "https://veduapkdownloads.net/images/vedu-apk-download.jpg",
                 width: 1200,
                 height: 630,
                 alt: "Vedu APK Download Free – Movies & Streaming App For Android 2026",
@@ -45,7 +45,7 @@ export const metadata = {
         title: "Vedu APK Download – Free Movies & Streaming App For Android 2026",
         description:
             "Download Vedu APK free. Watch 50,000+ Bollywood, Hollywood & South Indian movies in HD & 4K. No login, no ads, no subscription. Android 5.0+.",
-        images: ["https://veduapkdownloads.com/images/vedu-apk-download.jpg"],
+        images: ["https://veduapkdownloads.net/images/vedu-apk-download.jpg"],
     },
 };
 
